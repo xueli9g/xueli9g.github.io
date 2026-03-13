@@ -1,2 +1,3 @@
 # xueli9g.github.io
-我的个人 Quarto 网站
+李雪 植物营养学
+研究方向：有机肥、水旱轮作
